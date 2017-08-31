@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Head is Properly Defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- Cons is Properly Defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- Tail is Properly Defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- isEmpty is Properly Defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- Filter Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- Append Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- Sort Test[0m[0m
